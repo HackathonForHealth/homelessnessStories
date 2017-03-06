@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomelessDescision</string>
+    <!--
+    <string name="startText">This is a test of the stuff.</string>
+    <string name="firstChoice">First Choice</string>
+    <string name="firstChoice_A">Option A</string>
+    <string name="firstChoice_B">Option B</string>
+    <string name="firstChoice_C">Option C</string>-->
+
+    <string name="story_prev">Previous</string>
+    <string name="story_next">Next</string>
+</resources>
